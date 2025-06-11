@@ -1,20 +1,22 @@
-# Cadastro de Clientes em Python
+# 📋 Cadastro de Clientes em Python
 
-Este é um projeto simples desenvolvido para fins de aprendizado. Ele permite cadastrar, listar e buscar clientes via terminal, armazenando os dados em um arquivo `.txt`.
+Projeto simples desenvolvido com o objetivo de praticar lógica de programação e manipulação de arquivos em Python. Ideal para iniciantes!
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
-- Cadastro de clientes (nome, e-mail, telefone)
-- Listagem de todos os clientes
-- Busca de cliente pelo nome
-- Armazenamento em arquivo local (`clientes.txt`)
+- ✅ Cadastro de clientes (nome, e-mail e telefone)
+- 📄 Armazenamento dos dados em um arquivo `.txt`
+- 🔍 Busca de clientes por nome
+- 📑 Listagem de todos os clientes
 
-## Tecnologias usadas
+## 🛠 Tecnologias utilizadas
 
 - Python 3
-- Manipulação de arquivos
-- Lógica de programação
+- Manipulação de arquivos (`open`, `read`, `write`)
+- Controle de fluxo e laços de repetição
 
-## Como executar
+## 💻 Como executar
 
 1. Clone este repositório:
+   ```bash
+   git clone https://github.com/jhfregueto/cadastro-clientes-python.git
